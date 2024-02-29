@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+.container{
+	Background-color: #f5f5f5;
+	padding: 100px;
+	width:750px;
+	height: 250px;
+}
+#test{
+	padding: 1px;
+	border: 1px;
+	background-color: red;
+	width: 120px;
+	margin-top: 1px
+}
+.border{
+	background-color: white;
+	border: 1px solid black;
+	padding: 5px;
+	width: 750px;
+	
+}
+.text{
+	text-align: right;
+	font-style: italic;
+}
+.border1{
+	background-color: white;
+	border: 1px solid black;
+	padding: 5px;
+	width: 750px;
+	margin-top: 20px
+	
+}
+.text{
+	text-align: right;
+}
